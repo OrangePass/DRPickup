@@ -9,9 +9,9 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] Welcome Info
   - [ ] Introduction Info
   - [ ] log in, sign up, forgot password?
-- [ ] Indirectinon Page
+- [x] Indirectinon Page
   - [ ] Two Large Buttons (D/R)
-- [ ] Deliver Flow
+- [x] Deliver Flow
   - [ ] Providing Layer
     - [ ] Location 1
       - Home Location
@@ -23,7 +23,7 @@ A time sharing platform for picking up--- DR.Pickup
     - The Location need to Deliver 
   - [ ] Success Layer
     - [ ] Rating Option
-- [ ] Requester Flow
+- [x] Requester Flow
   - [ ] Ordering Layer
     - [ ] Search Bar on the Top
     - [ ] Auto Ranking Result Table related by Searching
