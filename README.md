@@ -5,7 +5,7 @@ A time sharing platform for picking up--- DR.Pickup
 
 
 # TODO
-- [ ] Main Page
+- [x] Main Page
   - [ ] Welcome Info
   - [ ] Introduction Info
   - [ ] log in, sign up, forgot password?
