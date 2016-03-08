@@ -12,7 +12,19 @@ A time sharing platform for picking up--- DR.Pickup
 - [ ] Indirectinon Page
   - [ ] Two Large Buttons (D/R)
 - [ ] Deliver Flow
-  - [ ] Ordering Layer
+  - [ ] Providing Layer
+    - 1 [ ] Location 1
+      - Home Location
+    - 2 [ ] Loaction 2
+      - Item Location
+    - 3 [ ] Item
+    - 4 [ ] Next Button
+  - [ ] In Transmit Layer
+    - The Location need to Deliver 
+  - [ ] Success Layer
+    1 [ ] Rating Option
+- [ ] Requester Flow
+  - - [ ] Ordering Layer
     - 1 [ ] Search Bar on the Top
     - 2 [ ] Auto Ranking Result Table related by Searching
       - Sold Number > Providing Number > Distance
@@ -21,5 +33,3 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] In Transmit Layer
   - [ ] Success Layer
     1 [ ] Rating Option
-- [ ] Requester Flow
-  - [ ]
