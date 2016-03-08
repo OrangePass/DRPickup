@@ -13,12 +13,12 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] Two Large Buttons (D/R)
 - [ ] Deliver Flow
   - [ ] Providing Layer
-    - 1 [ ] Location 1
+    - [ ] Location 1
       - Home Location
-    - 2 [ ] Loaction 2
+    - [ ] Loaction 2
       - Item Location
-    - 3 [ ] Item
-    - 4 [ ] Next Button
+    - [ ] Item
+    - [ ] Next Button
   - [ ] In Transmit Layer
     - The Location need to Deliver 
   - [ ] Success Layer
