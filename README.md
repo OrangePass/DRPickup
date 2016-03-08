@@ -24,12 +24,12 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] Success Layer
     - 1 [ ] Rating Option
 - [ ] Requester Flow
-  - - [ ] Ordering Layer
-    - 1 [ ] Search Bar on the Top
-    - 2 [ ] Auto Ranking Result Table related by Searching
+  -- [ ] Ordering Layer
+    - [ ] Search Bar on the Top
+    - [ ] Auto Ranking Result Table related by Searching
       - Sold Number > Providing Number > Distance
-    - 3 [ ] The item on the result can be access by clicking
-    - 4 [ ] Next Button
+    - [ ] The item on the result can be access by clicking
+    - [ ] Next Button
   - [ ] In Transmit Layer
   - [ ] Success Layer
-    - 1 [ ] Rating Option
+    - [ ] Rating Option
