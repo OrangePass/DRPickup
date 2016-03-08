@@ -22,9 +22,9 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] In Transmit Layer
     - The Location need to Deliver 
   - [ ] Success Layer
-    - 1 [ ] Rating Option
+    - [ ] Rating Option
 - [ ] Requester Flow
-  -- [ ] Ordering Layer
+  - [ ] Ordering Layer
     - [ ] Search Bar on the Top
     - [ ] Auto Ranking Result Table related by Searching
       - Sold Number > Providing Number > Distance
