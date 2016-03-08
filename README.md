@@ -22,7 +22,7 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] In Transmit Layer
     - The Location need to Deliver 
   - [ ] Success Layer
-    1 [ ] Rating Option
+    - 1 [ ] Rating Option
 - [ ] Requester Flow
   - - [ ] Ordering Layer
     - 1 [ ] Search Bar on the Top
@@ -32,4 +32,4 @@ A time sharing platform for picking up--- DR.Pickup
     - 4 [ ] Next Button
   - [ ] In Transmit Layer
   - [ ] Success Layer
-    1 [ ] Rating Option
+    - 1 [ ] Rating Option
