@@ -13,11 +13,11 @@ A time sharing platform for picking up--- DR.Pickup
   - [ ] Two Large Buttons (D/R)
 - [ ] Deliver Flow
   - [ ] Ordering Layer
-    1 [ ] Search Bar on the Top
-    2 [ ] Auto Ranking Result Table related by Searching
+    - 1 [ ] Search Bar on the Top
+    - 2 [ ] Auto Ranking Result Table related by Searching
       - Sold Number > Providing Number > Distance
-    3 [ ] The item on the result can be access by clicking
-    4 [ ] Next Button
+    - 3 [ ] The item on the result can be access by clicking
+    - 4 [ ] Next Button
   - [ ] In Transmit Layer
   - [ ] Success Layer
     1 [ ] Rating Option
