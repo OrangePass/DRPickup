@@ -1,40 +1,109 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>DR. Pickup</title>
-    <link rel="stylesheet" type="text/css" href="startPage.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <h1 id="title" class="startPage">DR. Pickup</h1>
+
+    <meta name="description" content="Main Page of the project ChronoShare">
+    <meta name="author" content="Jiawei Zhao">
+
+    <title>Chrono Share Main Page</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for the project -->
+    <link href="./css/modify.css" rel="stylesheet">
+
 </head>
 
-<body id="page" class="startPage">
-    <section id="infoBar">
-    	<a href="indirection.html">Log In</a>
-    	<h3>Sign Up</h3>
-    </section>
-    <section id="content">
-        <h2>1st Content Area</h2>
-        <p>At full width all three columns will be displayed side by side. As the page is resized the third column will collapse under the first and second. At the smallest screen size all three columns will be stacked on top of one another.</p>
-        <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-    </section>
-    <section id="middle">
-        <h2>2nd Content Area</h2>
-        <p>At full width all three columns will be displayed side by side. As the page is resized the third column will collapse under the first and second. At the smallest screen size all three columns will be stacked on top of one another.</p>
-        <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-    </section>
-    <aside id="sidebar">
-        <h2>3rd Content Area</h2>
-        <p>At full width all three columns will be displayed side by side. As the page is resized the third column will collapse under the first and second. At the smallest screen size all three columns will be stacked on top of one another.</p>
-        <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore</p>
-    </aside>
-    <script>
-    </script>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <!-- container-fluid -->
+    <div class="container-fluid"> 
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span> 
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Chrono Share</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="mainNavbar">
+            <ul class="nav navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="./index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                     <a class="nav-link" href="#">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Admin View</a>
+                </li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </div> <!-- container-fluid -->
+</nav> <!-- /Navbar -->
+
+<!-- Jumbotron : Welcome message -->
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="display-3">Welcome to Chrono Share!</h1>
+        <p>Chrono Share is a P2P platform design for makeing the most out of our client’s time when they leave home.</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more »</a></p>
+    </div>
+</div> <!-- Jumbotrong -->
+
+<!-- Articles -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Intro</h2>
+      <p>The basic idea of the project is when a client - Tim is going out to get some food or groceries. He might only need one or two items. However, another client - Ashley who is living close to Tim also need an item from the location that is is going to. Then, Tim can pick up the item and deliver to Ashley. This method of P2P platform not only save Ashley’s time, it also allows Tim to utilize his time better since he will earn some money or special offer after the delivery. </p>
+      <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+    </div>
+    <div class="col-md-4">
+      <h2>How It Works</h2>
+      <p>ChronoShare is an online P2P platform is a P2P delivering system for users who lives in a close vicinity to each other. ChronoShare have two main users: one is R, the Receiver, who is using the platform to order things to be delivered to his/her specified location. Another one is the C, which stands for the Courier, who is responsible for delivering the item to the Receiver.  </p>
+      <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+   </div>
+    <div class="col-md-4">
+      <h2>Article 3</h2>
+      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+    </div>
+  </div>
+
+  <hr>
+
+  <footer>
+    <p>© Company 2016</p>
+  </footer>
+</div> <!-- /container -->
+
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+
 </body>
-<footer id="footer" class="startPage">
-    <h3>Copyright © ABC Group</h3>
-    <p>Footer text</p>
-</footer>
 
 </html>
